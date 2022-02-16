@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Vito, and I am Student of Sam Ratulangi University Manado!  
 
-<img align="right" alt="img" src="https://github.com/vithosengka/SistemPOS/blob/main/public/images/20210601_145909.jpg" width="25%" height="auto" />
+
 
 
 #### 🌱 Things I am currently working on: 
